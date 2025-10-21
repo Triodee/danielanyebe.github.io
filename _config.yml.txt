@@ -1,0 +1,12 @@
+title: "Daniel Anyebe"
+description: "PhD Researcher in Economics & Finance | Behavioural & Experimental Economics | Decision-Making | Entrepreneurship"
+url: "https://danielanyebe.github.io"
+baseurl: ""
+
+author:
+  name: "Daniel Anyebe"
+  affiliation: "PhD Candidate, Uniwersytet Przyrodniczy w Poznaniu (Poland)"
+  location: "Poznań, Poland"
+  email: "daniel.anyebe [at] gmail [dot] com"
+
+theme: minima
